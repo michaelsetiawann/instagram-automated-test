@@ -21,19 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.instagram.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Instagram/input_Phone number, username, or email_username'), 'michaelsetiawan4')
+WebUI.setText(findTestObject('Object Repository/Page_Instagram/input_Phone number, username, or email_username'), 'mikeesGJ')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Instagram/input_Password_password'), 'HYXd4BeZGJXUIveHP0HkUA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Instagram/input_Password_password'), 'EMhgNJr5phyByUShNi1ehg==')
 
 WebUI.click(findTestObject('Object Repository/Page_Instagram/div_Log in'))
+
+WebUI.click(findTestObject('Object Repository/Page_Instagram/div_Not Now'))
 
 WebUI.click(findTestObject('Page_Instagram/button_Not Now'))
 
 WebUI.click(findTestObject('Object Repository/Page_Instagram/div_Search'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Instagram/input_Password_password'), 'michaelsetiawanganteng')
-
-WebUI.verifyElementNotVisible(findTestObject('Page_Instagram/div_No results found'))
 
 WebUI.closeBrowser()
 

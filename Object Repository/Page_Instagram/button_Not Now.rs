@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>338e7f4f-26f4-4812-a426-3d28abe02ef2</webElementGuid>
+      <webElementGuid>eb58a0d4-a8d7-480f-9435-88aea0a034f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>_a9-- _a9_1</value>
-      <webElementGuid>37872e94-28c1-4f99-b3dc-a56a02d6bef0</webElementGuid>
+      <webElementGuid>844a9ad5-ea43-4cab-991f-0ab418caeaa0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e7b0b1f9-8c45-4501-9683-acd1aa644533</webElementGuid>
+      <webElementGuid>43227988-788f-4073-a573-e9298e6d5860</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Not Now</value>
-      <webElementGuid>1b42ae90-6e08-4ff7-95ad-a42387f9f678</webElementGuid>
+      <webElementGuid>45df17ae-7a6e-4820-9425-11a8f4de06d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mount_0_0_Ji&quot;)/div[1]/div[1]/div[3]/div[1]/div[@class=&quot;x1n2onr6 xzkaem6&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf xg6iff7 x1n2onr6&quot;]/div[@class=&quot;x1uvtmcs x4k7w5x x1h91t0o x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1n2onr6 x1qrby5j x1jfb8zj&quot;]/div[@class=&quot;x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k&quot;]/div[@class=&quot;x1cy8zhl x9f619 x78zum5 xl56j7k x2lwn1j xeuugli x47corl&quot;]/div[@class=&quot;x1ja2u2z x1afcbsf x1a2a7pz x6ikm8r x10wlt62 x71s49j x6s0dn4 x78zum5 xdt5ytf xl56j7k x1n2onr6&quot;]/div[@class=&quot;xs83m0k xl56j7k x1sy10c2 x1h5jrl4 xieb3on xmn8rco x1iy3rx x1n2onr6 x1hfn5x7 x13wlyjk xw8ag78 x1v7wizp xc7qz2s xa3vuyk&quot;]/div[@class=&quot;x7r02ix xf1ldfh x131esax xdajt7p xxfnqb6 xb88tzc xw2csxc x1odjw0f x5fp0pe&quot;]/div[1]/div[@class=&quot;_a9-v&quot;]/div[@class=&quot;_a9-z&quot;]/button[@class=&quot;_a9-- _a9_1&quot;]</value>
-      <webElementGuid>98a816ce-301b-4f8a-aecb-fe284607aac5</webElementGuid>
+      <webElementGuid>9b807e66-d1f4-4ba9-bc62-28405e288664</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mount_0_0_Ji']/div/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/button[2]</value>
-      <webElementGuid>beff1eb0-0a4a-47c7-85b4-f2286d8f3e69</webElementGuid>
+      <webElementGuid>b6a16c8e-d8d5-43c7-99eb-375eea27e1b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Turn On'])[1]/following::button[1]</value>
-      <webElementGuid>d733edef-280a-4357-a63c-22d88f479b8d</webElementGuid>
+      <webElementGuid>62036f4b-4e59-42ee-b41d-8c84316e505b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Know right away when people follow you or like and comment on your photos.'])[1]/following::button[2]</value>
-      <webElementGuid>f057190f-9f9f-4555-8562-b0b9a679420f</webElementGuid>
+      <webElementGuid>3029b2b0-6f2a-48d7-a5d1-9b12e45cc778</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Not Now']/parent::*</value>
-      <webElementGuid>abfa32ca-a8c8-401a-8965-b323d64fa046</webElementGuid>
+      <webElementGuid>4148cce5-6d92-4bb2-93b4-9aeb1cc227fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>07f0f4e7-f068-46d9-9335-7b280edaa7d9</webElementGuid>
+      <webElementGuid>f3a88e9d-4fed-43ef-90d8-4b5bd04a9e86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Not Now' or . = 'Not Now')]</value>
-      <webElementGuid>857793d5-b392-40cf-80c2-47d7695536e2</webElementGuid>
+      <webElementGuid>363d006a-cef7-4a89-a56d-16548f284664</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mount_0_0_r6']/div/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[3]/button[2]</value>
-      <webElementGuid>0059e2a3-9fe4-4b89-a046-b633ce700cb0</webElementGuid>
+      <webElementGuid>2dae75b4-0588-4ed6-bf19-ad91613ab0c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
-      <webElementGuid>a068a9a7-0668-423c-8ade-64b9ce1cfda3</webElementGuid>
+      <webElementGuid>cd8c7a5a-69a7-4723-8d2c-23af45f72c54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::button[1]</value>
-      <webElementGuid>b8e4e6df-0ae6-4f29-94ff-54f59d1927c5</webElementGuid>
+      <webElementGuid>9c78e308-ee80-43ac-ac45-7fbe797a3bb5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
+         <value>input.x1lugfcp.x19g9edo.x6umtig.x1b1mbwd.xaqea5y.xav7gou.x1lq5wgf.xgqcy7u.x30kzoy.x9jhf4c.x9f619.x5n08af.xl565be.x5yr21d.x1a2a7pz.xyqdw3p.x1pi30zi.xg8j3zb.x1swvt13.x1yc453h.xh8yej3.xhtitgo.xs3hnx8.x1dbmdqj.xoy4bel.x7xwk5j.focus-visible</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='password']</value>
+         <value>//input[@value='']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>27d7a02e-1246-437a-8a46-8e4d83aceff1</webElementGuid>
+      <webElementGuid>2ed95ad4-724e-4622-b68e-9d867236b30b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>70e6512b-5f97-4e85-aed5-c5054f605b45</webElementGuid>
+      <value>Search input</value>
+      <webElementGuid>26af3887-77d4-4a4a-87a2-96deb6ecd5f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4a4e3d7c-c613-44f7-86b3-6d1c6ca50058</webElementGuid>
+      <webElementGuid>32a58832-06f3-4ca1-a915-62349dd56afb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocapitalize</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>f8c39354-3099-40c3-adc2-9c73f3f3cfea</webElementGuid>
+      <value>none</value>
+      <webElementGuid>4c342f83-03ff-4caa-aaa4-28cf4ba0b753</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,23 +54,23 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>ce83ac30-d6bb-41c7-8c20-49b129a8f43a</webElementGuid>
+      <webElementGuid>d48a94e3-e7cb-4ee8-b8ef-658515f4e3be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>_aa4b _add6 _ac4d</value>
-      <webElementGuid>ebfadb28-5c5f-49c0-8530-ff588c0efda1</webElementGuid>
+      <value>x1lugfcp x19g9edo x6umtig x1b1mbwd xaqea5y xav7gou x1lq5wgf xgqcy7u x30kzoy x9jhf4c x9f619 x5n08af xl565be x5yr21d x1a2a7pz xyqdw3p x1pi30zi xg8j3zb x1swvt13 x1yc453h xh8yej3 xhtitgo xs3hnx8 x1dbmdqj xoy4bel x7xwk5j focus-visible</value>
+      <webElementGuid>924e81a6-e74e-4c84-afc7-e526576925c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>18e71662-6fa4-4393-b9ff-b68da0a57a46</webElementGuid>
+      <value>text</value>
+      <webElementGuid>344b9275-130b-4281-be1f-89cd46012733</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,15 +78,15 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>e7280ebb-d254-42d1-aaa3-6494b9a29a90</webElementGuid>
+      <webElementGuid>6cc85bfa-2038-40c4-9f2a-d4b018aab666</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;loginForm&quot;)/div[@class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh xqui205 x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1&quot;]/div[@class=&quot;_ab32&quot;]/div[@class=&quot;x6s0dn4 xnz67gz x19gtwsn x1nk0tez x1xp9za0 x1hm1hlx x1npaq5j x1c83p5e x1enjb0b x199158v x13fuv20 xu3j5b3 x1q0q8m5 x26u7qi x178xt8z xm81vs4 xso031l xy80clv x9f619 x5n08af x78zum5 x1q0g3np xvs91rp x1n2onr6 xh8yej3&quot;]/label[@class=&quot;_aa48&quot;]/input[@class=&quot;_aa4b _add6 _ac4d&quot;]</value>
-      <webElementGuid>da50ef47-b444-40a0-8a76-9b7c77396c4b</webElementGuid>
+      <value>id(&quot;mount_0_0_cu&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x10cihs4 x1t2pt76 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 xvbhtw8 x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1uhb9sk x1plvlek xryxfnj x1c4vz4f x2lah0s x1q0g3np xqjyukv x1qjc9v5 x1oa3qoh x1qughib&quot;]/div[@class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1 x1dr59a3 xixxii4 x13vifvy xeq5yr9 x1n327nk&quot;]/div[@class=&quot;x1uvtmcs x4k7w5x x1h91t0o x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1n2onr6 x1qrby5j x1jfb8zj&quot;]/div[@class=&quot;x78zum5 x1q0g3np x1gvbg2u x1qughib xleuxlb xxfw5ft x1mh60rb x1f91t4q x1n2onr6&quot;]/div[@class=&quot;x10l6tqk x1u3tz30 x1ja2u2z&quot;]/div[@class=&quot;xvbhtw8 xvb8j5 x168nmei xoqspk4 x12v9rci xo71vjh xzmilaz x9f619 x78zum5 xdt5ytf x1dr59a3 x1odjw0f xish69e x1y1aw1k x4uap5 xwib8y2 xkhd6sd x1zvrr1&quot;]/div[@class=&quot;x5yr21d xh8yej3 x78zum5 xdt5ytf x10wlt62&quot;]/div[@class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1n2onr6 x1plvlek xryxfnj x1iyjqo2 x2lwn1j xeuugli xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1&quot;]/div[@class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1d52u69 xktsk01 x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1&quot;]/div[@class=&quot;_aawf _aawg _aexm _abli _amr8&quot;]/input[@class=&quot;x1lugfcp x19g9edo x6umtig x1b1mbwd xaqea5y xav7gou x1lq5wgf xgqcy7u x30kzoy x9jhf4c x9f619 x5n08af xl565be x5yr21d x1a2a7pz xyqdw3p x1pi30zi xg8j3zb x1swvt13 x1yc453h xh8yej3 xhtitgo xs3hnx8 x1dbmdqj xoy4bel x7xwk5j focus-visible&quot;]</value>
+      <webElementGuid>2f9c6bf2-85af-4c89-8507-330538478364</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>3f5c4a1b-6d7f-4f62-a49b-162282e2f9d5</webElementGuid>
+      <webElementGuid>16fe1519-1942-435a-af1e-b0e5bcaaab2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,55 +102,23 @@
       <name>value</name>
       <type>Main</type>
       <value>g</value>
-      <webElementGuid>526b6346-8300-4a5e-99f7-af58d554ec71</webElementGuid>
+      <webElementGuid>d7ff68ab-d7f1-4953-9d63-a168bd91442f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='password']</value>
-      <webElementGuid>5d461333-4947-4957-9a0a-808831618140</webElementGuid>
+      <value>//input[@value='']</value>
+      <webElementGuid>a3bc073f-1db4-4639-aa6c-57af204dd457</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='loginForm']/div/div[2]/div/label/input</value>
-      <webElementGuid>c176f90e-dd8c-48ed-b565-5ed83d5f1323</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/label/input</value>
-      <webElementGuid>4cffb0f2-3d17-4860-8aa6-be96cb7b85cb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password']</value>
-      <webElementGuid>298d7fdb-9700-4e3c-98bf-b9183b24c700</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@value='g']</value>
-      <webElementGuid>ce1619a5-0052-4ad5-973e-38a12cfd6db9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='mount_0_0_PV']/div/div/div[2]/div/div/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div/input</value>
-      <webElementGuid>1e8413d3-25d3-4c93-a1f0-16ab108875aa</webElementGuid>
+      <value>//div[@id='mount_0_0_cu']/div/div/div[2]/div/div/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div/input</value>
+      <webElementGuid>0fa64d79-cbde-42ca-aba4-3211d64b9634</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>ac5a0bd8-f657-4527-bf5e-0009436af2ae</webElementGuid>
+      <webElementGuid>4d588136-be4c-47d9-9fd6-b21f8d4ad61a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +134,54 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Search' and @type = 'text']</value>
-      <webElementGuid>a23f8f4a-7c1c-4649-8d38-1beab2df3d26</webElementGuid>
+      <webElementGuid>1f7ef885-995a-4249-87ba-19f08f2241e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='password']</value>
+      <webElementGuid>78e8a4fd-f699-4b23-816d-29e40f17fffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='loginForm']/div/div[2]/div/label/input</value>
+      <webElementGuid>ee18fc78-14ab-468f-9cd3-607c22cdf0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/input</value>
+      <webElementGuid>6d506536-cb02-4eaa-8d8a-84e95ba22b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'password' and @name = 'password']</value>
+      <webElementGuid>1bcd3f9e-ed24-4c09-bb76-6ee79c85afe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='g']</value>
+      <webElementGuid>aacb983b-6ad7-453f-9730-fe0f8cbda21a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_PV']/div/div/div[2]/div/div/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div/input</value>
+      <webElementGuid>2a838678-41b3-47f7-935c-d218e374d321</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
