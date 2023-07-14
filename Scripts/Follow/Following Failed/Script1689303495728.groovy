@@ -33,7 +33,7 @@ WebUI.click(findTestObject('Page_Instagram/button_Not Now'))
 
 WebUI.navigateToUrl('https://www.instagram.com/glennfredly309/')
 
-WebUI.click(findTestObject('Page_Glenn Fredly (glennfredly309)  Instagram photos and videos/button_Follow'))
+WebUI.verifyElementVisible(findTestObject('Page_Glenn Fredly (glennfredly309)  Instagram photos and videos/svg_Down chevron icon'))
 
 WebUI.closeBrowser()
 
